@@ -21,7 +21,7 @@ Here are the technologies used in this project.
 
 ## How to use
 
-### 1 - When you access, you will see the Home page <3
+### 1 - When you access, you will see the Home page
 
 <img width="375px" height="812px" alt="Captura de Tela" src="https://github.com/wabemusic/ClimaX/blob/main/readme/home.jpg">
 

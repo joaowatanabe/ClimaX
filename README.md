@@ -1,8 +1,5 @@
 
-![Logo of the project](https://github.com/wabemusic/ClimaX/blob/main/assets/favicon.png)
-
-
-## Clima X 
+# Clima X 
 This is a weather applicatioon 
 Enjoy It!
 

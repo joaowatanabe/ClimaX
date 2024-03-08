@@ -3,6 +3,7 @@
 This is a weather applicatioon 
 Enjoy It!
 
+[Try app](https://joaowatanabe.github.io/ClimaX/)
 
 ## Technology 
 

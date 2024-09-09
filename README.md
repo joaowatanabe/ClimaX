@@ -1,42 +1,38 @@
-
 # Clima X 
-This is a weather applicatioon 
-Enjoy It!
+Este é um aplicativo de clima. Aproveite!
 
-[Try app](https://joaowatanabe.github.io/ClimaX/)
+[Experimente o aplicativo](https://joaowatanabe.github.io/ClimaX/)
 
-## Technology 
+## Tecnologias Utilizadas
 
-Here are the technologies used in this project.
+Aqui estão as tecnologias usadas neste projeto:
 
 * HTML5
 * CSS3
 * JavaScript
 
-## Services Used
+## Serviços Utilizados
 
-* Github
-* OpenWeather
+* GitHub Pages
+* OpenWeather API
 
+## Como Usar
 
-
-## How to use
-
-### 1 - When you access, you will see the Home page
+### 1 - Ao acessar, você verá a página inicial:
 
 <img width="375px" height="812px" alt="Captura de Tela" src="https://github.com/wabemusic/ClimaX/blob/main/readme/home.jpg">
 
-### 2 - Then, the browser will ask for your geolocation, if you accept it it will search automatically or you can search any city through the search bar at the top of the screen.
+### 2 - O navegador pedirá sua geolocalização. Caso você aceite, o aplicativo buscará automaticamente a previsão para sua localização. Caso contrário, você pode pesquisar o clima de qualquer cidade usando a barra de busca no topo da tela.
 
-## Features
+## Funcionalidades
 
-The main features of the application are:
- - Current weather in real time.
- - Detailed extra information.
+As principais funcionalidades do aplicativo são:
+ - Exibir o clima atual em tempo real.
+ - Fornecer informações extras detalhadas sobre o clima.
 
-  ## Authors
+## Autor
 
-  * **João Vicente Watanabe** 
+* **João Vicente Watanabe**
 
-  Please follow github!
-  Thanks to visiting me and good coding!
+Siga no GitHub!  
+Obrigado por visitar e bons códigos!
